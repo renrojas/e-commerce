@@ -8,7 +8,7 @@ This project was created for a manager at an internet retail company who can use
 ## Installation
 Clone the project Repository: https://github.com/renrojas/e-commerce
 
-Then follow the video walkthrough to load the database and launch the application: 
+Then follow the video walkthrough to load the database and launch the application: https://youtu.be/U6zy-dtExeY
 
 ## Usage
 To navigate this application, you will start by invoking it by using the following command: node server. 
