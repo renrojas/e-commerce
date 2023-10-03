@@ -3,7 +3,7 @@
 ![github license](https://img.shields.io/badge/License-MIT-yellowgreen.svg)
 
 ## Description
-This project was created for a manager at an internet retail company who can use this back end application to successfully query, edit, and delete products, tags, and category of product using express.js and sequelize ORM
+This project was created for a manager at an internet retail company who can use this back end application to successfully query, edit, and delete products, tags, and category of product using express.js and sequelize ORM. The motivation for this project was to create a back end for an e-commerce website so that the company can compete with other companies.
 
 ## Installation
 Clone the project Repository: https://github.com/renrojas/e-commerce
@@ -11,7 +11,7 @@ Clone the project Repository: https://github.com/renrojas/e-commerce
 Then follow the video walkthrough to load the database and launch the application: 
 
 ## Usage
-To navigate this application, you will start by invoking the it by using the following command: node server. 
+To navigate this application, you will start by invoking it by using the following command: node server. 
 
 You will then be able to use Insomnia to perform CRUD database operations as shown on the walkthrough video.
 
@@ -23,7 +23,7 @@ https://www.npmjs.com/package/sequelize - Sequelize
 
 https://www.npmjs.com/package/dotenv - dotenv
 
-https://github.com/coding-boot-camp -  University of Denver’s GitLab course material and initial code (DU-VIRT-FSF-PT-04-2023-U-LOLC)
+https://github.com/coding-boot-camp -  University of Denver’s GitLab course material and starter code (DU-VIRT-FSF-PT-04-2023-U-LOLC)
 
 https://www.w3schools.com/js/default.asp - W3 schools
 
